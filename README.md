@@ -28,4 +28,5 @@ technologies used:
 * JavaScript: For adding interactivity, such as adding and removing tasks from the list.
 
 key insights:
+
 User-centric design is crucial in creating applications that enhance usability and satisfaction by prioritizing the needs and preferences of the end-users. By focusing on the user experience, developers can create intuitive interfaces that facilitate seamless interaction with the app. Additionally, adopting Agile methodology streamlines the development process, allowing for iterative improvements based on user feedback, which ensures that the product evolves in alignment with user expectations. Furthermore, maintaining clear and concise documentation throughout the project lifecycle is essential for effective knowledge transfer; it not only aids in onboarding new team members but also serves as a valuable resource for future updates and enhancements. Together, these practices contribute to a more efficient development process and a higher quality final product.
