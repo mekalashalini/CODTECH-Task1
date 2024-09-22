@@ -8,7 +8,7 @@ Domain: WEB DEVELOPMENT
 
 Duration: August to September 2024
 
-overview of the project project:WEATHER FORECAST APP
+overview of the project project:TO-DO List
 ![image](https://github.com/user-attachments/assets/39c8df99-ff84-47aa-9da5-866f809e33be)
 
 objective:
